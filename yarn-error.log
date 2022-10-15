@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "zens",
+    "name": "ikfar",
     "version": "1.2.3",
     "description": "WhatsApp Using Lib Baileys Multi Device",
     "main": "index.js",
@@ -37,7 +37,7 @@ npm manifest:
       "bot-md",
       "multi-device"
     ],
-    "author": "Zens Cuyy.",
+    "author": "IKFAR-IFC",
     "license": "MIT",
     "dependencies": {
       "@adiwajshing/baileys": "^4.1.0",
